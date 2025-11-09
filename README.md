@@ -1,39 +1,41 @@
-🪨✋✌️ Rock Paper Scissor Game by Mubeen
+Rock Paper Scissors Game 🎮
 
-A fun and interactive Rock Paper Scissors game built using HTML, CSS, and JavaScript, featuring a modern dark UI, sound effects, and background music 🎮🎵
+A simple and interactive Rock Paper Scissors game built with HTML, CSS, and JavaScript featuring a dark-themed UI, sound effects, and background music.
 
-🚀 Live Demo
+Live Demo
 
-🔗 Click here to play
- (replace with your GitHub Pages or Netlify link)
+🔗 Play the Game
+ https://mubeenlodhie52.github.io/7.Rock-Paper-Scissor/
 
-🧠 Features
+Features
 
-✅ Beautiful dark-themed UI with glowing effects
-✅ Smooth click animations and transitions
-✅ Sound effects for each move (click, win, lose, draw)
-✅ Background music with a mute/unmute toggle
-✅ Fully responsive design — works great on mobile and desktop
+Dark-themed UI with glowing effects
 
-💻 Technologies Used
+Interactive sound effects for clicks, wins, loses, and draws
 
-HTML5 – Game structure
+Background music with mute/unmute toggle
 
-CSS3 – Styling and glowing dark UI
+Fully responsive layout for desktop and mobile
 
-JavaScript (ES6) – Game logic and sound effects
+Technologies Used
 
-🕹️ How to Play
+HTML5
 
-Choose Rock (✊), Paper (✋), or Scissors (✌️).
+CSS3
 
-The computer randomly picks its choice.
+JavaScript (ES6)
 
-The result (“You Win”, “You Lose”, or “It’s a Draw”) appears on screen.
+How to Play
 
-Enjoy the sound effects and background music while you play! 🎶
+Click on Rock (✊), Paper (✋), or Scissors (✌️).
 
-🧩 Folder Structure
+The computer randomly picks its move.
+
+The result is displayed: You Win, You Lose, or Draw.
+
+Enjoy the sounds and background music while playing!
+
+Folder Structure
 Rock-Paper-Scissors/
 │
 ├── index.html
@@ -46,19 +48,11 @@ Rock-Paper-Scissors/
     ├── lose.mp3
     └── draw.mp3
 
-⚙️ Setup Instructions
+Setup
 
-Clone the repo:
+Clone the repository:
 
 git clone https://github.com/yourusername/rock-paper-scissor-game.git
 
 
 Open index.html in your browser.
-
-(Optional) Host it on GitHub Pages:
-
-Go to your repository → Settings → Pages
-
-Select the main branch and / (root) folder
-
-Click Save, then use the provided link to share your game.
